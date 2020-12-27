@@ -12,7 +12,7 @@ export const Description = styled.div`
   flex: 1;
   padding-right: 5rem;
   h2 {
-    font-font-weight: lighter;
+    font-weight: lighter;
   }
 `;
 export const Image = styled.div`
