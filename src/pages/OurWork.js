@@ -42,6 +42,7 @@ const OurWork = () => {
           </Hide>
         </Link>
       </Movie>
+
       <Movie>
         <h2>The Race</h2>
         <div className="line"></div>
@@ -49,6 +50,7 @@ const OurWork = () => {
           <img src={theracer} alt="theracer" />
         </Link>
       </Movie>
+
       <Movie>
         <h2>Good Times</h2>
         <div className="line"></div>
@@ -68,7 +70,7 @@ const Work = styled(motion.div)`
     padding: 1rem 0rem;
   }
 `;
-const Movie = styled.div`
+const Movie = styled(motion.div)`
   padding-bottom: 10rem;
   .line {
     height: 0.5rem;
