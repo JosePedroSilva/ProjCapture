@@ -1,3 +1,7 @@
+# Portfolio || Web page
+
+Web page created on The Creative React and Redux Course
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
